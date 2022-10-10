@@ -1,2 +1,0 @@
-# Formadores
-Repositorio dos formadores
