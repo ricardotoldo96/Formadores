@@ -1,0 +1,15 @@
+h1{
+  text-align: center;
+  color: green;
+}
+p{
+  color: black;
+  text-align: justify;
+}
+.bandeira{
+  width: 100%;
+  max-height: 400px;
+}
+.convocados{
+  display: inline-table;
+}
