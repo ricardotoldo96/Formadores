@@ -2,9 +2,21 @@ h1{
   text-align: center;
   color: green;
 }
+body{
+  background: #ffcd00
+}
+.cbf{
+  width: 10%;
+}
+.box{
+  position: fixed;
+  top: 10px;
+  left: 10px;
+}
 p{
   color: black;
   text-align: justify;
+
 }
 .bandeira{
   width: 100%;
@@ -12,4 +24,7 @@ p{
 }
 .convocados{
   display: inline-table;
+}
+.selecao_mundo{
+  width: 10%;
 }
